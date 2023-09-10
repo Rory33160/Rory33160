@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rory! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/rorynbrown/)">Cybersecurity Professional</a>,
+<h1>Hi, I'm Rory! <br/><a href="https://github.com/Rory33160">Programmer</a>, <a href="https://www.linkedin.com/in/rorynbrown/)">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
@@ -24,7 +24,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: (https://www.linkedin.com/in/rorynbrown/)
 
 <!--
 **Rory33160/Rory33160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
