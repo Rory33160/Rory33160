@@ -9,6 +9,10 @@
 
 Certification
 
+Comptia Network +
+Comptia Security +
+AWS Cloud Practioner 
+
 
 <h2> 🤳 Connect with me:</h2>
 
