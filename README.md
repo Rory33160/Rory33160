@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rory! <br/><a href="https://github.com/Rory33160">Programmer</a>, <a href="https://www.linkedin.com/in/rorynbrown/)">Cybersecurity Professional</a>,
+<h1>Hi, I'm Rory! <br/><a href="https://github.com/Rory33160"> IT Professional</a>, <a href="https://www.linkedin.com/in/rorynbrown/)">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
