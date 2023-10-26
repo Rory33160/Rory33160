@@ -9,6 +9,11 @@ Comptia Network +
 Comptia Security +
 AWS Cloud Practioner 
 
+Skill:
+Linux
+Virtualization
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
